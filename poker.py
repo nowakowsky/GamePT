@@ -1,3 +1,10 @@
+# Not a single line of code has been written by hand
+# This is school game project (Python Machine Learning, dr inż. Lesław Pawlaczyk)
+# Authors 
+# Patryk Nowakowski (104224)
+# Piotr Podlecki (137026)
+# ChatGPT (GPT-4)
+
 import random
 from collections import Counter
 
