@@ -5,3 +5,5 @@
 * Patryk Nowakowski (104224)
 * Piotr Podlecki (137026)
 * ChatGPT (GPT-4)
+
+All prompts and responses have been saved in prompts_gpt4.md file. 
